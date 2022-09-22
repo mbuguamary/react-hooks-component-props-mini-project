@@ -1,5 +1,5 @@
 import React from "react";
-import blogData from "../data/blog";
+
 
 function About({image="https://via.placeholder.com/215",alt="blog logo",about}){
     return(
@@ -10,5 +10,5 @@ function About({image="https://via.placeholder.com/215",alt="blog logo",about}){
             </aside>
         </div>
     )
-}git
+}
 export default About;
